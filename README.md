@@ -21,7 +21,7 @@
 - **Processo Integrado:** Combinação de múltiplas ferramentas para criar um produto final coeso e profissional.
 - **Portfólio Expandido:** Adição de um projeto inovador ao portfólio pessoal.
 
-🔗 [Assista ao Vídeo Aqui](#)
+🔗 [Assista ao Vídeo Aqui]([#](https://www.flexclip.com/pt/share/7974530baef6357df6d60b8cc70105ea420a986.html))
 
 💭 Reflexão
 Criar "Look at Them" foi uma jornada fascinante, mostrando como as IAs Generativas podem ser integradas em produções audiovisuais. Este projeto reforça a capacidade dessas tecnologias em transformar ideias em realidade, elevando os limites da criatividade.
