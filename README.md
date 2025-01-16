@@ -4,7 +4,7 @@
 "Look at Them" é um projeto criativo que explora o potencial das IAs Generativas para produzir vídeos inovadores. Inspirado pela tendência "Natty or Not", este projeto combina tecnologias de ponta para criar um conteúdo audiovisual envolvente e impactante.
 
 🤖 Tecnologias Utilizadas
-- **Runway ML:** Para geração de vídeos utilizando IA.
+- **INVIDEO AI:** Para geração de vídeos utilizando IA.
 - **ChatGPT (OpenAI):** Para roteiro e narração.
 - **DALL·E (OpenAI):** Para criação de imagens complementares ao vídeo.
 - **Adobe Premiere Pro:** Para edição e finalização do vídeo.
