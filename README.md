@@ -1,51 +1,27 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# Look at Them: Criando um Vídeo com IA 🎥
 
-## 🚀 Introdução
+📒 Descrição
+"Look at Them" é um projeto criativo que explora o potencial das IAs Generativas para produzir vídeos inovadores. Inspirado pela tendência "Natty or Not", este projeto combina tecnologias de ponta para criar um conteúdo audiovisual envolvente e impactante.
 
-> Woooow! Look at this 👀
+🤖 Tecnologias Utilizadas
+- **Runway ML:** Para geração de vídeos utilizando IA.
+- **ChatGPT (OpenAI):** Para roteiro e narração.
+- **DALL·E (OpenAI):** Para criação de imagens complementares ao vídeo.
+- **Adobe Premiere Pro:** Para edição e finalização do vídeo.
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+🧐 Processo de Criação
+1. **Ideação e Planejamento:** Definição do conceito visual e narrativa central para o vídeo.
+2. **Roteirização:** O ChatGPT foi usado para criar o roteiro, garantindo um storytelling coeso e envolvente.
+3. **Geração de Imagens e Vídeos:** Utilizamos o DALL·E para criar visuais e o Runway ML para gerar clipes animados que complementam o tema.
+4. **Edição:** As peças geradas foram editadas no Adobe Premiere Pro, onde foram adicionados efeitos, trilha sonora e ajustes finais.
+5. **Publicação:** O vídeo final foi exportado e compartilhado nas redes sociais para divulgação.
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+🚀 Resultados
+- **Vídeo Impactante:** Um conteúdo audiovisual que demonstra como as IAs podem ser usadas de maneira criativa.
+- **Processo Integrado:** Combinação de múltiplas ferramentas para criar um produto final coeso e profissional.
+- **Portfólio Expandido:** Adição de um projeto inovador ao portfólio pessoal.
 
-### Objetivos
+🔗 [Assista ao Vídeo Aqui](#)
 
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
-
-## 📒 Descrição
-Breve descrição do seu projeto
-
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
-
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
-
-## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+💭 Reflexão
+Criar "Look at Them" foi uma jornada fascinante, mostrando como as IAs Generativas podem ser integradas em produções audiovisuais. Este projeto reforça a capacidade dessas tecnologias em transformar ideias em realidade, elevando os limites da criatividade.
