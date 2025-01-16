@@ -14,7 +14,7 @@
 2. **Roteirização:** O ChatGPT foi usado para criar o roteiro, garantindo um storytelling coeso e envolvente.
 3. **Geração de Imagens e Vídeos:** Utilizamos o DALL·E para criar visuais e o Runway ML para gerar clipes animados que complementam o tema.
 4. **Edição:** As peças geradas foram editadas no Adobe Premiere Pro, onde foram adicionados efeitos, trilha sonora e ajustes finais.
-5. **Publicação:** O vídeo final foi exportado e compartilhado nas redes sociais para divulgação.
+
 
 🚀 Resultados
 - **Vídeo Impactante:** Um conteúdo audiovisual que demonstra como as IAs podem ser usadas de maneira criativa.
